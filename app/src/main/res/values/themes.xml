@@ -1,0 +1,10 @@
+<resources
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ToDoApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar" >
+        <item name="colorPrimaryVariant">#00BCD4</item>
+        <item name="colorPrimary">#00BCD4</item>
+        <item name="homeAsUpIndicator">@drawable/tasklogo2</item>
+        <item name="labelStyle" >@drawable/tasklogo2</item>
+    </style>
+</resources>
